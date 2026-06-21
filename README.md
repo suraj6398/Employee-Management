@@ -23,10 +23,3 @@ A React-based Employee Management System where an admin can assign tasks to empl
 - Local Storage
 - Vite
 
-## Installation
-
-```bash
-git clone https://github.com/suraj6398/Employee-Management.git
-cd Employee-Management
-npm install
-npm run dev
